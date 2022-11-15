@@ -1,0 +1,15 @@
+#heading{
+    background-color: rgb(156, 230, 255);
+    color: black;
+    text-align: center;
+    font-size:48px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    font-style: italic;
+    stroke-width: 9px;
+  }
+
+body{
+    background-color: purple;
+    text-align: center;
+}
